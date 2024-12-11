@@ -1,3 +1,3 @@
-# 欢迎来到我的网站
+# AVES: An Audio-Visual Emotion Stream Dataset for Temporal Emotion Detection
 
-这是一个使用 Cayman 主题的 GitHub Pages 网站。
+IEEE Transactions on Affective Computing, DOI: [10.1109/TAFFC.2024.3440924](https://doi.org/10.1109/TAFFC.2024.3440924).
