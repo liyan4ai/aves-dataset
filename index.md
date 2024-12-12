@@ -25,6 +25,30 @@ Compared with existing emotion datasets, the highlights of AVES can be summarize
 ## Boundary Combination Network
 ![Boundary Combination Network](BoCoNet.png)
 
+## Citation
+
+If you use this dataset in your research, please cite the following paper:
+
+```bibtex
+@article{li2024aves,
+  title={AVES: An Audio-Visual Emotion Stream Dataset for Temporal Emotion Detection},
+  author={Li, Yan and Gan, Wei and Lu, Ke and Jiang, Dongmei and Jain, Ramesh},
+  journal={IEEE Transactions on Affective Computing},
+  year={2024},
+  publisher={IEEE}
+}
+```
+
+```bibtex
+@inproceedings{li2020memos,
+  title={MEMOS: A Multi-modal Emotion Stream Database for Temporal Spontaneous Emotional State Detection},
+  author={Li, Yan and Xia, Xiaohan and Jiang, Dongmei and Sahli, Hichem and Jain, Ramesh},
+  booktitle={Companion Publication of the 2020 International Conference on Multimodal Interaction},
+  pages={370--378},
+  year={2020}
+}
+```
+
 ## Changelog
 
 * 2024-12-11: Website created.
